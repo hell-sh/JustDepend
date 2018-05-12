@@ -28,4 +28,3 @@ foreach($json as $dependency)
 	curl_close($ch);
 	fclose($fh);
 }
-?>
