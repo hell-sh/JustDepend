@@ -1,6 +1,6 @@
 [
 	{
-		"remote": "https://raw.githubusercontent.com/hellshltd/TimeElement/master/TimeElement.js",
-		"local": "/var/www/html/TimeElement.js"
+		"remote": "https://raw.githubusercontent.com/hellshltd/TimeElements.js/master/TimeElements.js",
+		"local": "/var/www/html/TimeElements.js"
 	}
 ]
