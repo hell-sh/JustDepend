@@ -2,7 +2,7 @@
 
 If you have files you want to have automatically updated, just depend.
 
-[[Download]](https://raw.githubusercontent.com/hellshltd/JustDepend/master/justdepend.php)
+[[Download]](https://raw.githubusercontent.com/hell-sh/JustDepend/master/justdepend.php)
 
 ## Example Cronjob
 
